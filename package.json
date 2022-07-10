@@ -4,7 +4,7 @@
   "description": "practice for study web devepolment",
   "source": "public/index.html",
   "scripts": {
-    "run": "parcel",
+    "dev": "parcel",
     "build": "parcel build"
   },
   "keywords": ["web-book"],
