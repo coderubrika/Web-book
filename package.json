@@ -1,15 +1,15 @@
 {
   "name": "web-book",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "practice for study web devepolment",
   "source": "public/index.html",
   "scripts": {
     "run": "parcel",
     "build": "parcel build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["web-book"],
+  "author": "coderubrika@gmail.com",
+  "license": "MIT License",
   "devDependencies": {
     "parcel": "^2.6.2"
   }
